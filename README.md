@@ -1,5 +1,3 @@
-Project Link - https://github-people-search.netlify.app/
-
 This project was created with React
 
 ### `npm run build`
